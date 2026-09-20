@@ -1,0 +1,11 @@
+build/
+bin/
+obj/
+*.o
+*.exe
+*.log
+*.tmp
+.vscode/
+.idea/
+~$*
+Thumbs.db
